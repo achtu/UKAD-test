@@ -41,9 +41,7 @@ h1 {
   margin-left: 30px;
 }
 .container {
-  max-width: 144rem;
   padding: 0 2rem;
-  margin: 0 auto;
 }
 .products {
   padding: 2rem 0;
@@ -57,11 +55,8 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
 }
-.product img {
-  width: 100%;
-}
-.product-content {
-  padding: 1rem 2rem;
+.product h2, h4, p {
+  padding: 0 0.5rem;
 }
 .product .product-title {
   font-size: 2rem;
@@ -69,17 +64,8 @@ h1 {
 .product-description {
   text-align: justify;
 }
-.product-title,
-.product-price-container,
-.product-description,
-.product-category {
-  padding: 0.5rem 0;
-}
-.product-price-container {
-  padding-top: 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.roduct-price {
+  padding: 0 0.5rem;
 }
 footer {
   background-color: var(--main-col);
