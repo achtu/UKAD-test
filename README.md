@@ -18,5 +18,5 @@ CSS
 HTML
 </li>
 <li>
-and the <a href="https://swiperjs.com/">Swiper</a> library </li>
+and the <a href="https://swiperjs.com/" target="_blank">Swiper</a> library </li>
 </ul>
