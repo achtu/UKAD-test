@@ -75,6 +75,7 @@ p {
 }
 .swiper-slide {
   margin: 10px;
+}
 footer {
   background-color: var(--main-col);
   color: var(--text-col);
